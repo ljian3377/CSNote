@@ -54,9 +54,7 @@ This provides:
 - Consider lock-free reads for better read scalability
 - The promotion operation could be expensive under high contention
 - Swapping maps during full capacity might cause latency spikes
-
-Would you like me to suggest specific optimizations for your current implementation or discuss any particular aspect in more detail?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjQyNzk5NiwxOTQzMDE2ODIyLC03MD
-M0MjQzM119
+eyJoaXN0b3J5IjpbLTE0MjAxMDA0NTMsMTk0MzAxNjgyMiwtNz
+AzNDI0MzNdfQ==
 -->
