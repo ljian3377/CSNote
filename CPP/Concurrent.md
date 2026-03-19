@@ -1,7 +1,6 @@
-## Concurrent HashMap
-    mutable std::shared_mutex m_MapLock;  // Allows multiple readers, single writer
-    
+## Concurrent HashMap Implementation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzAxNjgyMiwtNzAzNDI0MzNdfQ==
+eyJoaXN0b3J5IjpbMTUxMjkwMDQ5MywxOTQzMDE2ODIyLC03MD
+M0MjQzM119
 -->
