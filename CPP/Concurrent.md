@@ -1,5 +1,5 @@
-## Concurrent Data Structures in Cpp
+## Concurrent HashMap
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzQyNDMzXX0=
+eyJoaXN0b3J5IjpbLTEzMDE0MDMxMTksLTcwMzQyNDMzXX0=
 -->
